@@ -48,7 +48,7 @@ function Login() {
   return (
     <>
       <section
-        className="vh-100 bg-image"
+        className="vh-100 bg-imhandleChangeage"
         style={{
           backgroundImage:
             "url('https://mdbcdn.b-cdn.net/img/Photos/new-templates/search-box/img4.webp')",
